@@ -60,25 +60,8 @@
 <script>
 // Load data from csv files as javascript arrays with objects
 import _ from 'lodash';
+import trialData from '../trials/trials.csv'
 
-var trialData = [
-  {structure : "disjunctive",
-   block1 : true,
-   block2 : false,
-   time : 500,
-   pos : "Atop",
-   pA : 0.2,
-   pB : 0.8
-  },
-  {structure : "conjunctive",
-   block1 : true,
-   block2 : false,
-   time : 500,
-   pos : "Btop",
-   pA : 0.2,
-   pB : 0.8
-  },
-]
 export default {
   name: 'App',
   data() {

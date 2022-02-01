@@ -1,0 +1,3 @@
+structure,block1,block2,time,pos,pA,pB
+conjunctive,true,false,500,Btop,0.2,0.8
+disjunctive,true,false,500,Atop,0.2,0.8
