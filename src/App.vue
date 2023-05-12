@@ -27,7 +27,7 @@
           ></iframe>
           <hr />
 
-          <div id="simulation_text" style="text-align: center;">
+          <div id="simulation_text" style="text-align: center">
             <p>Please press 'Watch' to view the rest of the clip.</p>
           </div>
           <hr />
